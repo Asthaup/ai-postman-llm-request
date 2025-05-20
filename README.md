@@ -1,3 +1,4 @@
+![Screenshot 2025-05-20 183844](https://github.com/user-attachments/assets/1b521889-6f04-49c4-a3de-d31b5a2445f8)
 # 💬 AI Poem Generator using OpenRouter API and Postman
 
 This beginner project demonstrates how to send a POST request to a free LLM API (OpenRouter) using Postman and receive a generated poem using the model `mistralai/mistral-7b-instruct`.
